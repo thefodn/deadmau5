@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deadmau5 Hypnocurrency
+* source:	https://sketchfab.com/3d-models/deadmau5-hypnocurrency-2837c2099c6649c4ba0a416159d024a6
+* author:	Alucard (https://sketchfab.com/Ronald.Browen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deadmau5 Hypnocurrency" (https://sketchfab.com/3d-models/deadmau5-hypnocurrency-2837c2099c6649c4ba0a416159d024a6) by Alucard (https://sketchfab.com/Ronald.Browen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
